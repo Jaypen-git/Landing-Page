@@ -100,7 +100,7 @@ button {
 .img-container img {
     border: 4px solid var(--button-color);
     border-radius: 20px;
-    height: 130px;
+    height: 120px;
 }
 #content3 {
     background-color: var(--secondary-text);
