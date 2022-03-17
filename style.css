@@ -91,6 +91,7 @@ button {
     align-self: center;
     display: flex;
     justify-content: center;
+    margin-bottom: 60px;
 }
 .img-container div {
     flex: 0 0 200px;
